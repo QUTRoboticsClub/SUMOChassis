@@ -1,0 +1,23 @@
+This document is an update on the progress of this project
+
+- Compleated Items
+
+
+
+- Objectiives comenced
+	- Inital design of overall design of the robot chassis
+	- Componet selection
+	- basic electrical design
+  
+ - Items to be started
+	- Start development of RaspberryPi sheald board
+		 - needs to include compatable female header for all generation boards
+		 - needs to be able to drive 2 2.2A DC motors
+		 - needs to have roboust cooling solution
+	- Code needs to be started (Language C)
+		 - Interfaceing with sheld board
+		 - Bluetooth or wierless modual comunication
+		 - interfacing remoatly from a theathered device
+	- SCAP Grant Proposal
+		 - Funding for the development of kits
+		 - funding revisions to the design or componets
